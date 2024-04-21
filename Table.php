@@ -1,6 +1,7 @@
 <?php
 
-require './vendor/phplucidframe/console-table/src/LucidFrame/Console/ConsoleTable.php';
+// require './vendor/phplucidframe/console-table/src/LucidFrame/Console/ConsoleTable.php';
+require './ConsoleTable.php';
 
 class Table {
   private $table;
